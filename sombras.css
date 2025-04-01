@@ -1,0 +1,17 @@
+.tb{
+	background-color: lightgoldenrodyellow;
+	border: 2px solid #000000;
+	padding:  15px;
+	text-align: center;
+	margin: 20px 5px;
+	width: 600px;
+}
+#text1{
+	text-shadow: 5px 5px  10px  #423870;
+	font: bold 30px  trebuchet MS;
+	width: 100;
+}
+#texto2{
+	text-shadow: 5px 5px 10px #f00;
+	font: bold 40px trebuchet MS;
+}
